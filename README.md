@@ -1,6 +1,6 @@
 # Deko Holding website with Next JS, Typescript, Material UI
 
-Test of Next JS version 2
+Test of Next JS version 3
 
 Install it and run:
 
